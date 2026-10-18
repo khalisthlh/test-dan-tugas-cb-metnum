@@ -1424,7 +1424,6 @@ $$
 \underbrace{\begin{bmatrix}x_1\\x_2\\\vdots\\x_n\end{bmatrix}}_{\mathbf x\ (n\times1)}
 =
 \underbrace{\begin{bmatrix}b_1\\b_2\\\vdots\\b_n\end{bmatrix}}_{\mathbf b\ (n\times1)}
-
 $$
 
 - $A$ = matriks koefisien (angka di depan variabel), $\mathbf x$ = yang dicari, $\mathbf b$ = ruas kanan.
@@ -1686,6 +1685,7 @@ $$
 =
 \begin{bmatrix}1&0&0\\l_{21}&1&0\\l_{31}&l_{32}&1\end{bmatrix}
 \begin{bmatrix}u_{11}&u_{12}&u_{13}\\0&u_{22}&u_{23}\\0&0&u_{33}\end{bmatrix}
+
 $$
 
 **Kegunaan**
